@@ -9,7 +9,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **React Js** - 👨‍💻 All of my projects are available
+- 🌱 I’m currently learning **Angular Js** - 👨‍💻 All of my projects are available
 at
 [https://github.com/dipesh9765?tab=repositories](https://github.com/dipesh9765?tab=repositories)
 - 📫 How to reach me **dipeshmarathe9765@gmail.com**
