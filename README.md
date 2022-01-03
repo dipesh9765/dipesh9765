@@ -6,7 +6,7 @@
     ><img
       src="https://github-profile-trophy.vercel.app/?username=dipesh9765"
       alt="dipesh9765"
-  /></a>
+   style="margin:0 10px;"/></a>
 </p>
 
 - 🌱 I’m currently learning **Angular Js** 
