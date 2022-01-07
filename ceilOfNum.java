@@ -1,7 +1,7 @@
   public class CeilingArray {
     public static void main(String[] args) {
         int[] arr = {2, 4, 5, 9, 14, 16, 19, 24};
-        int ceiled = 3;
+        double ceiled = 3.3564;
         int start = 0;
         Math.ceil(2);
         int end = arr.length - 1;
